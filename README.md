@@ -1,2 +1,2 @@
 # Penguin-Fashion-Responnsive-
-Live Link- https://mhratul.github.io/Penguin-Fashion-Responnsive-/
+Live Link-https://penguin-fashion-responnsive.netlify.app/
